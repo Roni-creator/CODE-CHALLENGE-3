@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F7F7F7;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #444;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #777;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    border: 1px solid #CCC;
+    background-color: #FFF;
+  }
+  
+  #poster {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem 0;
+  }
+  
+  #buy-ticket {
+    background-color: #007AFF;
+    color: #FFF;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
